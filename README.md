@@ -1,5 +1,5 @@
 # Simple Redbot Docker
-Simple docker image to help easily setup and run Redbot discord bot on a docker container without too much fuss.
+Simple docker image to help easily setup and run Redbot discord bot on a docker container without too much fuss. This is just something I did for fun and to test how to make a docker image, if you want a much more serious docker image for redbot check out this one: https://github.com/PhasecoreX/docker-red-discordbot
 
 # Building
 `docker build -t redbot-docker-simple .`
